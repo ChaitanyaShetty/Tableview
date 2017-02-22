@@ -10,6 +10,12 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)allert:(id)sender;
+
+
+
+
+- (IBAction)sheet:(id)sender;
 
 @end
 
